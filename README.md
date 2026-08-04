@@ -1,3 +1,5 @@
+<img width="1202" height="631" alt="image" src="https://github.com/user-attachments/assets/d9106bfe-7069-4af9-91f4-499e5d4f6f69" />
+
 # 🐍 Python + FastAPI
 ### De cero a una API profesional lista para tu portfolio
 
